@@ -12,6 +12,7 @@ and code from [CppCon 2017](http://cppcon.org).
 
 ## Presentations 
 
+ - [API & ABI Versioning](Presentations/API%20%26%20ABI%20Versioning/API%20%26%20ABI%20Versioning%20-%20Mathieu%20Ropert%20-%20CppCon%202017.pdf) by Mathieu Ropert
  - [C++ and Persistent Memory Technologies](Presentations/C%2B%2B%20and%20Persistent%20Memory%20Technologies/C%2B%2B%20and%20Persistent%20Memory%20Technologies%20-%20Tomasz%20Kapela%20-%20CppCon%202017.pdf) by Tomasz Kapela
  - [Migrating a C++03 library to C++11 case study, Wt 4](Presentations/Migrating%20a%20C%2B%2B03%20library%20to%20C%2B%2B11%20case%20study%2C%20Wt%204/Migrating%20a%20C%2B%2B03%20library%20to%20C%2B%2B11%20case%20study%2C%20Wt%204%20-%20Roel%20Standaert%20-%20CppCon%202017.pdf) by Roel Standaert
  - [When a Microsecond Is an Eternity](Presentations/When%20a%20Microsecond%20Is%20an%20Eternity/When%20a%20Microsecond%20Is%20an%20Eternity%20-%20Carl%20Cook%20-%20CppCon%202017.pdf) by Carl Cook
