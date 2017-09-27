@@ -2,6 +2,7 @@
 
 from os import listdir, makedirs, rename
 from os.path import isdir, exists, split, normpath, join, splitext
+from urllib.parse import quote
 import sys
 import re
 import subprocess
@@ -50,6 +51,9 @@ def get_author(path):
 
 
 def generate_entry(readme, session_name, path):
+    def md_path(path):
+        return quote(normpath(path).replace('\\', '/'))
+
     presentation_regex = re.compile("- CppCon 2017\\.[^.]*$")
     pdf_regex = re.compile("\\.pdf$", flags=re.I)
     readme_md_regex = re.compile("README\\.md$")
@@ -77,22 +81,22 @@ def generate_entry(readme, session_name, path):
         else:
             all_other_files.append(name)
 
-    print(" - [", session_name, "](", normpath(join(path, presentation_file)).replace('\\', '/'),
+    print(" - [", session_name, "](", md_path(join(path, presentation_file)),
           ") by ", author, file=readme, end='', sep='')
 
     if len(all_presentation_files) > 1:
-        exts = [(splitext(f)[1].lower(), normpath(join(path, f))).replace('\\', '/') for f in
+        exts = [(splitext(f)[1].lower(), md_path(join(path, f))) for f in
                 all_presentation_files]
         for e in exts:
             print(" \\[[", e[0], "](", e[1], ")\\]", file=readme, end='',
                   sep='')
 
     if readme_md_file:
-        print(" \\[[README](", join(path, readme_md_file), ")\\]",
+        print(" \\[[README](", md_path(join(path, readme_md_file)), ")\\]",
               file=readme, end='', sep='')
 
     if all_other_files:
-        print(" \\[[more materials](", normpath(path).replace('\\', '/'), ")\\]", file=readme, sep='',
+        print(" \\[[more materials](", md_path(path), ")\\]", file=readme, sep='',
               end='')
 
     print('', file=readme)
