@@ -17,6 +17,7 @@ and code from [CppCon 2017](http://cppcon.org).
 
 ## Tutorials 
 
+ - [Practical C++17](Tutorials/Practical%20C%2B%2B17/Practical%20C%2B%2B17%20-%20Jason%20Turner%20-%20CppCon%202017.pdf) by Jason Turner
 
 ## Demos 
 
