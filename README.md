@@ -21,6 +21,7 @@ and code from [CppCon 2017](http://cppcon.org).
 ## Tutorials 
 
  - [Boost Your Programs Health With Fibers](Tutorials/Boost%20Your%20Programs%20Health%20With%20Fibers/Boost%20Your%20Programs%20Health%20With%20Fibers%20-%20David%20Sackstein%20-%20CppCon%202017.pdf) by David Sackstein
+ - [Make Classes Great Again](Tutorials/Make%20Classes%20Great%20Again/Make%20Classes%20Great%20Again%20-%20Vinnie%20Falco%20-%20CppCon%202017.pdf) by Vinnie Falco
  - [Practical C++17](Tutorials/Practical%20C%2B%2B17/Practical%20C%2B%2B17%20-%20Jason%20Turner%20-%20CppCon%202017.pdf) by Jason Turner
  - [Using Modern CMake Patterns to Enforce a Good Modular Design](Tutorials/Using%20Modern%20CMake%20Patterns%20to%20Enforce%20a%20Good%20Modular%20Design/Using%20Modern%20CMake%20Patterns%20to%20Enforce%20a%20Good%20Modular%20Design%20-%20Mathieu%20Ropert%20-%20CppCon%202017.pdf) by Mathieu Ropert
 
