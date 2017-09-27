@@ -44,7 +44,7 @@ def get_author(path):
     author = author_regex.search(path)
 
     if author:
-        return author[1]
+        return author.group(1)
 
     return ""
 
@@ -137,8 +137,8 @@ def add_presentation(path):
 
     title_author_match = title_author_regex.search(filename)
     if title_author_match:
-        title = title_author_match[1]
-        author = title_author_match[2]
+        title = title_author_match.group(1)
+        author = title_author_match.group(2)
 
     print("\nExtension is", ext)
 
@@ -186,4 +186,7 @@ if __name__ == '__main__':
         make_readme(readme)
 
     shell_call('git add README.md')
-    shell_call('git commit -v -m "Add {} by {}" -e'.format(title, author))
+    if title and author:
+        shell_call('git commit -v -m "Add {} by {}" -e'.format(title, author))
+    else:
+        shell_call('git commit -v -m "Updating index" -e')
