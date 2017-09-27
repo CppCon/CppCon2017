@@ -96,8 +96,8 @@ def generate_entry(readme, session_name, path):
               file=readme, end='', sep='')
 
     if all_other_files:
-        print(" \\[[more materials](", md_path(path), ")\\]", file=readme, sep='',
-              end='')
+        print(" \\[[more materials](", md_path(path), ")\\]", file=readme,
+              sep='', end='')
 
     print('', file=readme)
 
@@ -166,6 +166,8 @@ def add_presentation(path):
         if any((c in "\\/:*?”<>|") for c in new_filename):
             print("Filename contains invalid characters.")
             ok = 'n'
+        elif ok == 'n':
+            ok = ''
 
     new_folder = join(folder, title)
     new_path = join(new_folder, new_filename)
