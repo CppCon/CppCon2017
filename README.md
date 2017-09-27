@@ -20,6 +20,7 @@ and code from [CppCon 2017](http://cppcon.org).
 
 ## Demos 
 
+ - [A Modern Formatting Library for C++](Demos/A%20Modern%20Formatting%20Library%20for%20C%2B%2B/A%20Modern%20Formatting%20Library%20for%20C%2B%2B%20-%20Victor%20Zverovich%20-%20CppCon%202017.pdf) by Victor Zverovich
  - [Fuzz Or Lose](Demos/Fuzz%20Or%20Lose/Fuzz%20Or%20Lose%20-%20Kostya%20Serebryany%20-%20CppCon%202017.pdf) by Kostya Serebryany
  - [New Standards to the Rescue](Demos/New%20Standards%20to%20the%20Rescue/New%20Standards%20to%20the%20Rescue%20-%20Anastasia%20Kazakova%20-%20CppCon%202017.pdf) by Anastasia Kazakova
  - [Tools From the C++ Eco-System](Demos/Tools%20From%20the%20C%2B%2B%20Eco-System/Tools%20From%20the%20C%2B%2B%20Eco-System%20-%20Anastasia%20Kazakova%20-%20CppCon%202017.pdf) by Anastasia Kazakova
