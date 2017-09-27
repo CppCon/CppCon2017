@@ -18,6 +18,7 @@ and code from [CppCon 2017](http://cppcon.org).
 ## Tutorials 
 
  - [Practical C++17](Tutorials/Practical%20C%2B%2B17/Practical%20C%2B%2B17%20-%20Jason%20Turner%20-%20CppCon%202017.pdf) by Jason Turner
+ - [Using Modern CMake Patterns to Enforce a Good Modular Design](Tutorials/Using%20Modern%20CMake%20Patterns%20to%20Enforce%20a%20Good%20Modular%20Design/Using%20Modern%20CMake%20Patterns%20to%20Enforce%20a%20Good%20Modular%20Design%20-%20Mathieu%20Ropert%20-%20CppCon%202017.pdf) by Mathieu Ropert
 
 ## Demos 
 
