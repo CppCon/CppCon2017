@@ -15,6 +15,7 @@ and code from [CppCon 2017](http://cppcon.org).
  - [API & ABI Versioning](Presentations/API%20%26%20ABI%20Versioning/API%20%26%20ABI%20Versioning%20-%20Mathieu%20Ropert%20-%20CppCon%202017.pdf) by Mathieu Ropert
  - [C++ and Persistent Memory Technologies](Presentations/C%2B%2B%20and%20Persistent%20Memory%20Technologies/C%2B%2B%20and%20Persistent%20Memory%20Technologies%20-%20Tomasz%20Kapela%20-%20CppCon%202017.pdf) by Tomasz Kapela
  - [Migrating a C++03 library to C++11 case study, Wt 4](Presentations/Migrating%20a%20C%2B%2B03%20library%20to%20C%2B%2B11%20case%20study%2C%20Wt%204/Migrating%20a%20C%2B%2B03%20library%20to%20C%2B%2B11%20case%20study%2C%20Wt%204%20-%20Roel%20Standaert%20-%20CppCon%202017.pdf) by Roel Standaert
+ - [Mocking Frameworks Considered Harmful](Presentations/Mocking%20Frameworks%20Considered%20Harmful/Mocking%20Frameworks%20Considered%20Harmful%20-%20Peter%20Sommerlad%20-%20CppCon%202017.pdf) by Peter Sommerlad
  - [Using Functional Programming Patterns to build a clean and simple HTTP routing API](Presentations/Using%20Functional%20Programming%20Patterns%20to%20build%20a%20clean%20and%20simple%20HTTP%20routing%20API/Using%20Functional%20Programming%20Patterns%20to%20build%20a%20clean%20and%20simple%20HTTP%20routing%20API%20-%20Jeremy%20Demeule%20and%20Quentin%20Duval%20-%20CppCon%202017.pdf) by Jeremy Demeule and Quentin Duval
  - [When a Microsecond Is an Eternity](Presentations/When%20a%20Microsecond%20Is%20an%20Eternity/When%20a%20Microsecond%20Is%20an%20Eternity%20-%20Carl%20Cook%20-%20CppCon%202017.pdf) by Carl Cook
 
