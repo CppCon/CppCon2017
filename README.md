@@ -32,6 +32,7 @@ and code from [CppCon 2017](http://cppcon.org).
 ## Demos 
 
  - [A Modern Formatting Library for C++](Demos/A%20Modern%20Formatting%20Library%20for%20C%2B%2B/A%20Modern%20Formatting%20Library%20for%20C%2B%2B%20-%20Victor%20Zverovich%20-%20CppCon%202017.pdf) by Victor Zverovich
+ - [Bringing Clang-tidy Magic to Visual Studio C++ Developers](Demos/Bringing%20Clang-tidy%20Magic%20to%20Visual%20Studio%20C%2B%2B%20Developers/Bringing%20Clang-tidy%20Magic%20to%20Visual%20Studio%20C%2B%2B%20Developers%20-%20Victor%20Ciura%20-%20CppCon%202017.pdf) by Victor Ciura \[[README](Demos/Bringing%20Clang-tidy%20Magic%20to%20Visual%20Studio%20C%2B%2B%20Developers/README.md)\]
  - [C++ Development with Visual Studio Code](Demos/C%2B%2B%20Development%20with%20Visual%20Studio%20Code/C%2B%2B%20Development%20with%20Visual%20Studio%20Code%20-%20Rong%20Lu%20-%20CppCon%202017.pptx) by Rong Lu
  - [Cross-Platform Apps with Djinni](Demos/Cross-Platform%20Apps%20with%20Djinni/Cross-Platform%20Apps%20with%20Djinni%20-%20Stephen%20Spann%20-%20CppCon%202017.pdf) by Stephen Spann
  - [Fuzz Or Lose](Demos/Fuzz%20Or%20Lose/Fuzz%20Or%20Lose%20-%20Kostya%20Serebryany%20-%20CppCon%202017.pdf) by Kostya Serebryany
