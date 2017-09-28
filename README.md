@@ -41,6 +41,7 @@ and code from [CppCon 2017](http://cppcon.org).
 
 ## Lightning Talks and Lunch Sessions 
 
+ - [Regular Expressions Redefined in C++](Lightning%20Talks%20and%20Lunch%20Sessions/Regular%20Expressions%20Redefined%20in%20C%2B%2B/Regular%20Expressions%20Redefined%20in%20C%2B%2B%20-%20Hana%20Dusikova%20-%20CppCon%202017.pdf) by Hana Dusikova
 
 ## Posters 
 
