@@ -45,6 +45,7 @@ and code from [CppCon 2017](http://cppcon.org).
 ## Lightning Talks and Lunch Sessions 
 
  - [Datetime Programming for Everyone. Everywhere](Lightning%20Talks%20and%20Lunch%20Sessions/Datetime%20Programming%20for%20Everyone.%20Everywhere/Datetime%20Programming%20for%20Everyone.%20Everywhere%20-%20Tai%20Meng%20-%20CppCon%202017.pdf) by Tai Meng
+ - [Refactor or die](Lightning%20Talks%20and%20Lunch%20Sessions/Refactor%20or%20die/Refactor%20or%20die%20-%20Mikhail%20Matrosov%20-%20CppCon%202017.pdf) by Mikhail Matrosov \[[.pdf](Lightning%20Talks%20and%20Lunch%20Sessions/Refactor%20or%20die/Refactor%20or%20die%20-%20Mikhail%20Matrosov%20-%20CppCon%202017.pdf)\] \[[.pptx](Lightning%20Talks%20and%20Lunch%20Sessions/Refactor%20or%20die/Refactor%20or%20die%20-%20Mikhail%20Matrosov%20-%20CppCon%202017.pptx)\]
  - [Regular Expressions Redefined in C++](Lightning%20Talks%20and%20Lunch%20Sessions/Regular%20Expressions%20Redefined%20in%20C%2B%2B/Regular%20Expressions%20Redefined%20in%20C%2B%2B%20-%20Hana%20Dusikova%20-%20CppCon%202017.pdf) by Hana Dusikova
 
 ## Posters 
