@@ -57,6 +57,7 @@ and code from [CppCon 2017](http://cppcon.org).
  - [Refactor or die](Lightning%20Talks%20and%20Lunch%20Sessions/Refactor%20or%20die/Refactor%20or%20die%20-%20Mikhail%20Matrosov%20-%20CppCon%202017.pdf) by Mikhail Matrosov \[[.pdf](Lightning%20Talks%20and%20Lunch%20Sessions/Refactor%20or%20die/Refactor%20or%20die%20-%20Mikhail%20Matrosov%20-%20CppCon%202017.pdf)\] \[[.pptx](Lightning%20Talks%20and%20Lunch%20Sessions/Refactor%20or%20die/Refactor%20or%20die%20-%20Mikhail%20Matrosov%20-%20CppCon%202017.pptx)\]
  - [Regular Expressions Redefined in C++](Lightning%20Talks%20and%20Lunch%20Sessions/Regular%20Expressions%20Redefined%20in%20C%2B%2B/Regular%20Expressions%20Redefined%20in%20C%2B%2B%20-%20Hana%20Dusikova%20-%20CppCon%202017.pdf) by Hana Dusikova
  - [SCM Challenge Unique Words](Lightning%20Talks%20and%20Lunch%20Sessions/SCM%20Challenge%20Unique%20Words/SCM%20Challenge%20Unique%20Words%20-%20Arthur%20O%27Dwyer%20-%20CppCon%202017.pdf) by Arthur O'Dwyer
+ - [Speeding up Preprocessor](Lightning%20Talks%20and%20Lunch%20Sessions/Speeding%20up%20Preprocessor/Speeding%20up%20Preprocessor%20-%20Ivan%20Sorokin%20-%20CppCon%202017.pdf) by Ivan Sorokin
 
 ## Posters 
 
