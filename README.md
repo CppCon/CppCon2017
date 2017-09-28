@@ -24,6 +24,7 @@ and code from [CppCon 2017](http://cppcon.org).
  - [Undefined Behavior in 2017](Presentations/Undefined%20Behavior%20in%202017/Undefined%20Behavior%20in%202017%20-%20John%20Regehr%20-%20CppCon%202017.pdf) by John Regehr
  - [Using Functional Programming Patterns to build a clean and simple HTTP routing API](Presentations/Using%20Functional%20Programming%20Patterns%20to%20build%20a%20clean%20and%20simple%20HTTP%20routing%20API/Using%20Functional%20Programming%20Patterns%20to%20build%20a%20clean%20and%20simple%20HTTP%20routing%20API%20-%20Jeremy%20Demeule%20and%20Quentin%20Duval%20-%20CppCon%202017.pdf) by Jeremy Demeule and Quentin Duval
  - [When a Microsecond Is an Eternity](Presentations/When%20a%20Microsecond%20Is%20an%20Eternity/When%20a%20Microsecond%20Is%20an%20Eternity%20-%20Carl%20Cook%20-%20CppCon%202017.pdf) by Carl Cook
+ - [Which Machine am I Coding to](Presentations/Which%20Machine%20am%20I%20Coding%20to/Which%20Machine%20am%20I%20Coding%20to%20-%20Patrice%20Roy%20-%20CppCon%202017.pdf) by Patrice Roy
  - [dynamic_cast From Scratch](Presentations/dynamic_cast%20From%20Scratch/dynamic_cast%20From%20Scratch%20-%20Arthur%20O%27Dwyer%20-%20CppCon%202017.pdf) by Arthur O'Dwyer
 
 ## Tutorials 
