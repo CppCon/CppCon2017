@@ -171,7 +171,7 @@ def add_presentation(path):
 
     new_folder = join(folder, title)
     new_path = join(new_folder, new_filename)
-    makedirs(new_folder)
+    makedirs(new_folder, exist_ok=True)
     rename(path, new_path)
     shell_call('git add "{}"'.format(new_path))
 
