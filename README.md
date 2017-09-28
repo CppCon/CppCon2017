@@ -13,6 +13,7 @@ and code from [CppCon 2017](http://cppcon.org).
 ## Presentations 
 
  - [A Soupcon of SFINAE](Presentations/A%20Soupcon%20of%20SFINAE/A%20Soupcon%20of%20SFINAE%20-%20Arthur%20O%27Dwyer%20-%20CppCon%202017.pdf) by Arthur O'Dwyer
+ - [A Type, By Any Other Name](Presentations/A%20Type%2C%20By%20Any%20Other%20Name/A%20Type%2C%20By%20Any%20Other%20Name%20-%20Jon%20Cohen%20-%20CppCon%202017.pdf) by Jon Cohen
  - [API & ABI Versioning](Presentations/API%20%26%20ABI%20Versioning/API%20%26%20ABI%20Versioning%20-%20Mathieu%20Ropert%20-%20CppCon%202017.pdf) by Mathieu Ropert
  - [Almost Unlimited Modern C++ in Kernel-Mode Applications](Presentations/Almost%20Unlimited%20Modern%20C%2B%2B%20in%20Kernel-Mode%20Applications/Almost%20Unlimited%20Modern%20C%2B%2B%20in%20Kernel-Mode%20Applications%20-%20Billy%20Baker%20-%20CppCon%202017.pdf) by Billy Baker
  - [C++ and Persistent Memory Technologies](Presentations/C%2B%2B%20and%20Persistent%20Memory%20Technologies/C%2B%2B%20and%20Persistent%20Memory%20Technologies%20-%20Tomasz%20Kapela%20-%20CppCon%202017.pdf) by Tomasz Kapela
