@@ -61,6 +61,7 @@ and code from [CppCon 2017](http://cppcon.org).
 
 ## Lightning Talks and Lunch Sessions 
 
+ - [10 Things Junior C++ Devs Don't Get](Lightning%20Talks%20and%20Lunch%20Sessions/10%20Things%20Junior%20C%2B%2B%20Devs%20Don%27t%20Get/10%20Things%20Junior%20C%2B%2B%20Devs%20Don%27t%20Get%20-%20Victor%20Ciura%20-%20CppCon%202017.pdf) by Victor Ciura
  - [Datetime Programming for Everyone. Everywhere](Lightning%20Talks%20and%20Lunch%20Sessions/Datetime%20Programming%20for%20Everyone.%20Everywhere/Datetime%20Programming%20for%20Everyone.%20Everywhere%20-%20Tai%20Meng%20-%20CppCon%202017.pdf) by Tai Meng
  - [F.21](Lightning%20Talks%20and%20Lunch%20Sessions/F.21/F.21%20-%20Giuseppe%20D%27Angelo%20-%20CppCon%202017.pdf) by Giuseppe D'Angelo
  - [Quick Bench](Lightning%20Talks%20and%20Lunch%20Sessions/Quick%20Bench/Quick%20Bench%20-%20Fred%20Tingaud%20-%20CppCon%202017.pdf) by Fred Tingaud
