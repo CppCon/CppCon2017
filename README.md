@@ -32,6 +32,7 @@ and code from [CppCon 2017](http://cppcon.org).
  - [When a Microsecond Is an Eternity](Presentations/When%20a%20Microsecond%20Is%20an%20Eternity/When%20a%20Microsecond%20Is%20an%20Eternity%20-%20Carl%20Cook%20-%20CppCon%202017.pdf) by Carl Cook
  - [Which Machine am I Coding to](Presentations/Which%20Machine%20am%20I%20Coding%20to/Which%20Machine%20am%20I%20Coding%20to%20-%20Patrice%20Roy%20-%20CppCon%202017.pdf) by Patrice Roy
  - [dynamic_cast From Scratch](Presentations/dynamic_cast%20From%20Scratch/dynamic_cast%20From%20Scratch%20-%20Arthur%20O%27Dwyer%20-%20CppCon%202017.pdf) by Arthur O'Dwyer
+ - [folly Function - A Non-copyable Alternative to std function](Presentations/folly%20Function%20-%20A%20Non-copyable%20Alternative%20to%20std%20function/folly%20Function%20-%20A%20Non-copyable%20Alternative%20to%20std%20function%20-%20Sven%20Over%20-%20CppCon%202017.pdf) by Sven Over \[[README](Presentations/folly%20Function%20-%20A%20Non-copyable%20Alternative%20to%20std%20function/README.md)\]
 
 ## Tutorials 
 
@@ -48,7 +49,6 @@ and code from [CppCon 2017](http://cppcon.org).
  - [Cross-Platform Apps with Djinni](Demos/Cross-Platform%20Apps%20with%20Djinni/Cross-Platform%20Apps%20with%20Djinni%20-%20Stephen%20Spann%20-%20CppCon%202017.pdf) by Stephen Spann
  - [Fuzz Or Lose](Demos/Fuzz%20Or%20Lose/Fuzz%20Or%20Lose%20-%20Kostya%20Serebryany%20-%20CppCon%202017.pdf) by Kostya Serebryany
  - [MPark.Patterns - Pattern Matching in C++](Demos/MPark.Patterns%20-%20Pattern%20Matching%20in%20C%2B%2B/MPark.Patterns%20-%20Pattern%20Matching%20in%20C%2B%2B%20-%20Michael%20Park%20-%20CppCon%202017.pdf) by Michael Park
- - [MPark.Patterns_ Pattern Matching in C++](Demos/MPark.Patterns_%20Pattern%20Matching%20in%20C%2B%2B) by 
  - [New Standards to the Rescue](Demos/New%20Standards%20to%20the%20Rescue/New%20Standards%20to%20the%20Rescue%20-%20Anastasia%20Kazakova%20-%20CppCon%202017.pdf) by Anastasia Kazakova
  - [Tools From the C++ Eco-System](Demos/Tools%20From%20the%20C%2B%2B%20Eco-System/Tools%20From%20the%20C%2B%2B%20Eco-System%20-%20Anastasia%20Kazakova%20-%20CppCon%202017.pdf) by Anastasia Kazakova
  - [Using IncludeOS to Write Fast and Secure Web Applications](Demos/Using%20IncludeOS%20to%20Write%20Fast%20and%20Secure%20Web%20Applications/Using%20IncludeOS%20to%20Write%20Fast%20and%20Secure%20Web%20Applications%20-%20Lukas%20Bergdoll%20-%20CppCon%202017.pdf) by Lukas Bergdoll
