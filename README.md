@@ -47,6 +47,8 @@ and code from [CppCon 2017](http://cppcon.org).
  - [C++ Development with Visual Studio Code](Demos/C%2B%2B%20Development%20with%20Visual%20Studio%20Code/C%2B%2B%20Development%20with%20Visual%20Studio%20Code%20-%20Rong%20Lu%20-%20CppCon%202017.pptx) by Rong Lu
  - [Cross-Platform Apps with Djinni](Demos/Cross-Platform%20Apps%20with%20Djinni/Cross-Platform%20Apps%20with%20Djinni%20-%20Stephen%20Spann%20-%20CppCon%202017.pdf) by Stephen Spann
  - [Fuzz Or Lose](Demos/Fuzz%20Or%20Lose/Fuzz%20Or%20Lose%20-%20Kostya%20Serebryany%20-%20CppCon%202017.pdf) by Kostya Serebryany
+ - [MPark.Patterns - Pattern Matching in C++](Demos/MPark.Patterns%20-%20Pattern%20Matching%20in%20C%2B%2B/MPark.Patterns%20-%20Pattern%20Matching%20in%20C%2B%2B%20-%20Michael%20Park%20-%20CppCon%202017.pdf) by Michael Park
+ - [MPark.Patterns_ Pattern Matching in C++](Demos/MPark.Patterns_%20Pattern%20Matching%20in%20C%2B%2B) by 
  - [New Standards to the Rescue](Demos/New%20Standards%20to%20the%20Rescue/New%20Standards%20to%20the%20Rescue%20-%20Anastasia%20Kazakova%20-%20CppCon%202017.pdf) by Anastasia Kazakova
  - [Tools From the C++ Eco-System](Demos/Tools%20From%20the%20C%2B%2B%20Eco-System/Tools%20From%20the%20C%2B%2B%20Eco-System%20-%20Anastasia%20Kazakova%20-%20CppCon%202017.pdf) by Anastasia Kazakova
  - [Using IncludeOS to Write Fast and Secure Web Applications](Demos/Using%20IncludeOS%20to%20Write%20Fast%20and%20Secure%20Web%20Applications/Using%20IncludeOS%20to%20Write%20Fast%20and%20Secure%20Web%20Applications%20-%20Lukas%20Bergdoll%20-%20CppCon%202017.pdf) by Lukas Bergdoll
