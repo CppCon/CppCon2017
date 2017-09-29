@@ -61,6 +61,7 @@ and code from [CppCon 2017](http://cppcon.org).
 
  - [Datetime Programming for Everyone. Everywhere](Lightning%20Talks%20and%20Lunch%20Sessions/Datetime%20Programming%20for%20Everyone.%20Everywhere/Datetime%20Programming%20for%20Everyone.%20Everywhere%20-%20Tai%20Meng%20-%20CppCon%202017.pdf) by Tai Meng
  - [F.21](Lightning%20Talks%20and%20Lunch%20Sessions/F.21/F.21%20-%20Giuseppe%20D%27Angelo%20-%20CppCon%202017.pdf) by Giuseppe D'Angelo
+ - [Quick Bench](Lightning%20Talks%20and%20Lunch%20Sessions/Quick%20Bench/Quick%20Bench%20-%20Fred%20Tingaud%20-%20CppCon%202017.pdf) by Fred Tingaud
  - [Refactor or die](Lightning%20Talks%20and%20Lunch%20Sessions/Refactor%20or%20die/Refactor%20or%20die%20-%20Mikhail%20Matrosov%20-%20CppCon%202017.pdf) by Mikhail Matrosov \[[.pdf](Lightning%20Talks%20and%20Lunch%20Sessions/Refactor%20or%20die/Refactor%20or%20die%20-%20Mikhail%20Matrosov%20-%20CppCon%202017.pdf)\] \[[.pptx](Lightning%20Talks%20and%20Lunch%20Sessions/Refactor%20or%20die/Refactor%20or%20die%20-%20Mikhail%20Matrosov%20-%20CppCon%202017.pptx)\]
  - [Regular Expressions Redefined in C++](Lightning%20Talks%20and%20Lunch%20Sessions/Regular%20Expressions%20Redefined%20in%20C%2B%2B/Regular%20Expressions%20Redefined%20in%20C%2B%2B%20-%20Hana%20Dusikova%20-%20CppCon%202017.pdf) by Hana Dusikova
  - [SCM Challenge Unique Words](Lightning%20Talks%20and%20Lunch%20Sessions/SCM%20Challenge%20Unique%20Words/SCM%20Challenge%20Unique%20Words%20-%20Arthur%20O%27Dwyer%20-%20CppCon%202017.pdf) by Arthur O'Dwyer
