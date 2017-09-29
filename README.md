@@ -16,6 +16,7 @@ and code from [CppCon 2017](http://cppcon.org).
  - [A Type, By Any Other Name](Presentations/A%20Type%2C%20By%20Any%20Other%20Name/A%20Type%2C%20By%20Any%20Other%20Name%20-%20Jon%20Cohen%20-%20CppCon%202017.pdf) by Jon Cohen
  - [API & ABI Versioning](Presentations/API%20%26%20ABI%20Versioning/API%20%26%20ABI%20Versioning%20-%20Mathieu%20Ropert%20-%20CppCon%202017.pdf) by Mathieu Ropert
  - [Almost Unlimited Modern C++ in Kernel-Mode Applications](Presentations/Almost%20Unlimited%20Modern%20C%2B%2B%20in%20Kernel-Mode%20Applications/Almost%20Unlimited%20Modern%20C%2B%2B%20in%20Kernel-Mode%20Applications%20-%20Billy%20Baker%20-%20CppCon%202017.pdf) by Billy Baker
+ - [Building C++ Modules](Presentations/Building%20C%2B%2B%20Modules/Building%20C%2B%2B%20Modules%20-%20Boris%20Kolpackov%20-%20CppCon%202017.pdf) by Boris Kolpackov \[[README](Presentations/Building%20C%2B%2B%20Modules/README.md)\]
  - [C++ and Persistent Memory Technologies](Presentations/C%2B%2B%20and%20Persistent%20Memory%20Technologies/C%2B%2B%20and%20Persistent%20Memory%20Technologies%20-%20Tomasz%20Kapela%20-%20CppCon%202017.pdf) by Tomasz Kapela
  - [C++ in Academia](Presentations/C%2B%2B%20in%20Academia/C%2B%2B%20in%20Academia%20-%20Chuck%20Allison%20-%20CppCon%202017.pptx) by Chuck Allison
  - [Class Template Argument Deduction - A New Abstraction](Presentations/Class%20Template%20Argument%20Deduction%20-%20A%20New%20Abstraction/Class%20Template%20Argument%20Deduction%20-%20A%20New%20Abstraction%20-%20Zhihao%20Yuan%20-%20CppCon%202017.pdf) by Zhihao Yuan

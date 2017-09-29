@@ -67,7 +67,6 @@ def generate_entry(readme, session_name, path):
     dir_contents = listdir(path)
 
     for name in dir_contents:
-        print("Analyzing", name)
         if presentation_regex.search(name):
             # Pick the first file we found, but prefer a PDF file if there
             # is one
