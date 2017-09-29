@@ -71,6 +71,7 @@ and code from [CppCon 2017](http://cppcon.org).
  - [SCM Challenge Unique Words](Lightning%20Talks%20and%20Lunch%20Sessions/SCM%20Challenge%20Unique%20Words/SCM%20Challenge%20Unique%20Words%20-%20Arthur%20O%27Dwyer%20-%20CppCon%202017.pdf) by Arthur O'Dwyer
  - [Solving a Bug Via Lateral Thinking](Lightning%20Talks%20and%20Lunch%20Sessions/Solving%20a%20Bug%20Via%20Lateral%20Thinking/Solving%20a%20Bug%20Via%20Lateral%20Thinking%20-%20Giuseppe%20D%27Angelo%20-%20CppCon%202017.pdf) by Giuseppe D'Angelo
  - [Speeding up Preprocessor](Lightning%20Talks%20and%20Lunch%20Sessions/Speeding%20up%20Preprocessor/Speeding%20up%20Preprocessor%20-%20Ivan%20Sorokin%20-%20CppCon%202017.pdf) by Ivan Sorokin
+ - [The Perils of Implementing Code from PDFs](Lightning%20Talks%20and%20Lunch%20Sessions/The%20Perils%20of%20Implementing%20Code%20from%20PDFs/The%20Perils%20of%20Implementing%20Code%20from%20PDFs%20-%20Ben%20Combee%20-%20CppCon%202017.pdf) by Ben Combee
 
 ## Posters 
 
