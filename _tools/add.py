@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from os import listdir, makedirs, rename
+from os import listdir, makedirs, rename, linesep
 from os.path import isdir, exists, split, normpath, join, splitext
 from urllib.parse import quote
 import sys
@@ -154,7 +154,8 @@ def add_presentation(path):
     while ok != 'y':
         if ok != 'n':
             print("\n\nTitle:", title)
-            print("Author:", author)
+            print("Author:", author.encode().decode(sys.stdout.encoding,
+                  errors='ignore'))
             ok = input('OK? [y/n]: ').lower()
 
         if ok == 'n':
