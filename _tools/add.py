@@ -125,7 +125,7 @@ def generate_index(readme, path):
         return
 
     dir_contents = listdir(path)
-    dir_contents.sort()
+    dir_contents.sort(key=lambda s: s.lower())
 
     for name in dir_contents:
         generate_entry(readme, name, join(path, name))
