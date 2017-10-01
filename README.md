@@ -80,6 +80,7 @@ and code from [CppCon 2017](http://cppcon.org).
 
  - [10 Things Junior C++ Devs Don't Get](Lightning%20Talks%20and%20Lunch%20Sessions/10%20Things%20Junior%20C%2B%2B%20Devs%20Don%27t%20Get/10%20Things%20Junior%20C%2B%2B%20Devs%20Don%27t%20Get%20-%20Victor%20Ciura%20-%20CppCon%202017.pdf) by Victor Ciura
  - [Datetime Programming for Everyone. Everywhere](Lightning%20Talks%20and%20Lunch%20Sessions/Datetime%20Programming%20for%20Everyone.%20Everywhere/Datetime%20Programming%20for%20Everyone.%20Everywhere%20-%20Tai%20Meng%20-%20CppCon%202017.pdf) by Tai Meng
+ - [DynaMix - A New Take on Polymorphism in C++](Lightning%20Talks%20and%20Lunch%20Sessions/DynaMix%20-%20A%20New%20Take%20on%20Polymorphism%20in%20C%2B%2B/DynaMix%20-%20A%20New%20Take%20on%20Polymorphism%20in%20C%2B%2B%20-%20Viktor%20Kirilov%20-%20CppCon%202017.md) by Viktor Kirilov
  - [F.21](Lightning%20Talks%20and%20Lunch%20Sessions/F.21/F.21%20-%20Giuseppe%20D%27Angelo%20-%20CppCon%202017.pdf) by Giuseppe D'Angelo
  - [Making Optional Optional](Lightning%20Talks%20and%20Lunch%20Sessions/Making%20Optional%20Optional/Making%20Optional%20Optional%20-%20Roland%20Bock%20-%20CppCon%202017.pdf) by Roland Bock
  - [Quick Bench](Lightning%20Talks%20and%20Lunch%20Sessions/Quick%20Bench/Quick%20Bench%20-%20Fred%20Tingaud%20-%20CppCon%202017.pdf) by Fred Tingaud
