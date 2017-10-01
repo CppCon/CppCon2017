@@ -39,19 +39,30 @@ def make_readme(readme):
         add_index(readme, category)
 
 
-def get_author(path):
-    author_regex = re.compile(".* - (.*) - CppCon " + str(CPPCON_YEAR) +
-                              "\\.[^.]*$")
-
-    author = author_regex.search(path)
-
-    if author:
-        return author.group(1)
-
-    return ""
-
-
 def generate_entry(readme, session_name, path):
+    def get_author_from_filename(path):
+        author_regex = re.compile(".* - (.*) - CppCon " + str(CPPCON_YEAR) +
+                                    "\\.[^.]*$")
+
+        author = author_regex.search(path)
+
+        if author:
+            return author.group(1)
+
+        return ""
+
+    def get_author_from_readme_md(path):
+        readme_header_regex = re.compile(r"\*\*(.*)\*\* by \*\*(.*)\*\*")
+
+        with open(path, mode='rb') as readme_md:
+            header = readme_md.readline().decode()
+            match = readme_header_regex.match(header)
+
+            if match:
+                return match.group(2)
+        
+        return ""
+
     def md_path(path):
         return quote(normpath(path).replace('\\', '/'))
 
@@ -74,7 +85,7 @@ def generate_entry(readme, session_name, path):
             # is one
             if (not presentation_file) or pdf_regex.search(name):
                 presentation_file = name
-                author = get_author(name)
+                author = get_author_from_filename(name)
 
             all_presentation_files.append(name)
         elif readme_md_regex.search(name):
@@ -82,8 +93,14 @@ def generate_entry(readme, session_name, path):
         else:
             all_other_files.append(name)
 
-    readme.write(" - [{}]({}) by {}".format(session_name, 
-                                     md_path(join(path, presentation_file)),
+    if all_presentation_files:
+        presentation_path = join(path, presentation_file)
+    else:
+        presentation_path = path
+        author = get_author_from_readme_md(join(path, readme_md_file))
+
+    readme.write(" - [{}]({}) by {}".format(session_name,
+                                     md_path(presentation_path),
                                      author).encode())
 
     if len(all_presentation_files) > 1:
@@ -137,14 +154,26 @@ def add_presentation(path):
     title = ""
     author = ""
 
-    title_author_regex = re.compile("(.*) - (.*) - CppCon 2017\.[^.]*$")
+    if ext == '.md':
+        readme_header_regex = re.compile(r"\*\*(.*)\*\* by \*\*(.*)\*\*")
 
-    title_author_match = title_author_regex.search(filename)
-    if title_author_match:
-        title = title_author_match.group(1)
-        author = title_author_match.group(2)
+        with open(filename, mode='rb') as readme:
+            heading = readme.readline().decode()
+            match = readme_header_regex.match(heading)
 
-    print("\nExtension is", ext)
+            if match:
+                title = match.group(1)
+                author = match.group(2)
+    else:
+        title_author_regex = re.compile("(.*) - (.*) - CppCon " + 
+                                        str(CPPCON_YEAR) + r"\.[^.]*$")
+
+        title_author_match = title_author_regex.search(filename)
+        if title_author_match:
+            title = title_author_match.group(1)
+            author = title_author_match.group(2)
+
+        print("\nExtension is", ext)
 
     if not title or not author:
         title = input("Title: ")
@@ -162,10 +191,19 @@ def add_presentation(path):
             title = input("Title: ")
             author = input("Author: ")
 
-        new_filename = "{} - {} - CppCon 2017{}".format(title, author,
-                                                        ext)
+        if filename != 'README.md':
+            new_filename = "{} - {} - CppCon 2017{}".format(title, author,
+                                                            ext)
+        else:
+            new_filename = filename
+            contents = None
+            with open(filename, mode='rb') as readme:
+                contents = readme.readlines()
+            contents[0] = '**{}** by **{}**'.format(title, author).encode()
+            with open(filename, mode='wb') as readme:
+                readme.writelines(contents)
         if any((c in "\\/:*?”<>|") for c in new_filename):
-            print("Filename contains invalid characters.")
+            print("Name or Author contains invalid characters.")
             ok = 'n'
         elif ok == 'n':
             ok = ''
@@ -184,16 +222,16 @@ if __name__ == '__main__':
         print("Run this from the CppCon2017 root.")
         exit(1)
 
-    title = ''
-    author = ''
+    TITLE = None
+    AUTHOR = None
     if len(sys.argv) == 2 and sys.argv[1]:
-        title, author = add_presentation(sys.argv[1])
+        TITLE, AUTHOR = add_presentation(sys.argv[1])
 
     with open('README.md', mode='wb') as readme:
         make_readme(readme)
 
     shell_call('git add README.md')
-    if title and author:
-        shell_call('git commit -v -m "Add {} by {}" -e'.format(title, author))
+    if TITLE and AUTHOR:
+        shell_call('git commit -v -m "Add {} by {}" -e'.format(TITLE, AUTHOR))
     else:
         shell_call('git commit -v -m "Updating index" -e')

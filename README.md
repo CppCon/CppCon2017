@@ -70,6 +70,7 @@ and code from [CppCon 2017](http://cppcon.org).
  - [End-to-end Deadlock Debugging Tools at Facebook](Demos/End-to-end%20Deadlock%20Debugging%20Tools%20at%20Facebook/End-to-end%20Deadlock%20Debugging%20Tools%20at%20Facebook%20-%20Kenny%20Yu%20-%20CppCon%202017.pdf) by Kenny Yu
  - [Fuzz Or Lose](Demos/Fuzz%20Or%20Lose/Fuzz%20Or%20Lose%20-%20Kostya%20Serebryany%20-%20CppCon%202017.pdf) by Kostya Serebryany
  - [MPark.Patterns - Pattern Matching in C++](Demos/MPark.Patterns%20-%20Pattern%20Matching%20in%20C%2B%2B/MPark.Patterns%20-%20Pattern%20Matching%20in%20C%2B%2B%20-%20Michael%20Park%20-%20CppCon%202017.pdf) by Michael Park
+ - [Mix Tests and Production Code With Doctest](Demos/Mix%20Tests%20and%20Production%20Code%20With%20Doctest/Mix%20Tests%20and%20Production%20Code%20With%20Doctest%20-%20Viktor%20Kirilov%20-%20CppCon%202017.md) by Viktor Kirilov
  - [New Standards to the Rescue](Demos/New%20Standards%20to%20the%20Rescue/New%20Standards%20to%20the%20Rescue%20-%20Anastasia%20Kazakova%20-%20CppCon%202017.pdf) by Anastasia Kazakova
  - [Tools From the C++ Eco-System](Demos/Tools%20From%20the%20C%2B%2B%20Eco-System/Tools%20From%20the%20C%2B%2B%20Eco-System%20-%20Anastasia%20Kazakova%20-%20CppCon%202017.pdf) by Anastasia Kazakova
  - [Using IncludeOS to Write Fast and Secure Web Applications](Demos/Using%20IncludeOS%20to%20Write%20Fast%20and%20Secure%20Web%20Applications/Using%20IncludeOS%20to%20Write%20Fast%20and%20Secure%20Web%20Applications%20-%20Lukas%20Bergdoll%20-%20CppCon%202017.pdf) by Lukas Bergdoll
