@@ -20,6 +20,7 @@ and code from [CppCon 2017](http://cppcon.org).
  - [Building C++ Modules](Presentations/Building%20C%2B%2B%20Modules/Building%20C%2B%2B%20Modules%20-%20Boris%20Kolpackov%20-%20CppCon%202017.pdf) by Boris Kolpackov \[[README](Presentations/Building%20C%2B%2B%20Modules/README.md)\]
  - [C++ and Persistent Memory Technologies](Presentations/C%2B%2B%20and%20Persistent%20Memory%20Technologies/C%2B%2B%20and%20Persistent%20Memory%20Technologies%20-%20Tomasz%20Kapela%20-%20CppCon%202017.pdf) by Tomasz Kapela
  - [C++ in Academia](Presentations/C%2B%2B%20in%20Academia/C%2B%2B%20in%20Academia%20-%20Chuck%20Allison%20-%20CppCon%202017.pptx) by Chuck Allison
+ - [C++ WinRT and the future of C++ on Windows](Presentations/C%2B%2B%20WinRT%20and%20the%20future%20of%20C%2B%2B%20on%20Windows/C%2B%2B%20WinRT%20and%20the%20future%20of%20C%2B%2B%20on%20Windows%20-%20Kenny%20Kerr%20-%20CppCon%202017.pdf) by Kenny Kerr
  - [Class Template Argument Deduction - A New Abstraction](Presentations/Class%20Template%20Argument%20Deduction%20-%20A%20New%20Abstraction/Class%20Template%20Argument%20Deduction%20-%20A%20New%20Abstraction%20-%20Zhihao%20Yuan%20-%20CppCon%202017.pdf) by Zhihao Yuan
  - [constexpr ALL the things](Presentations/constexpr%20ALL%20the%20things/constexpr%20ALL%20the%20things%20-%20Jason%20Turner%20and%20Ben%20Deane%20-%20CppCon%202017.pdf) by Jason Turner and Ben Deane
  - [Coroutines What Can't They Do](Presentations/Coroutines%20What%20Can%27t%20They%20Do/Coroutines%20What%20Can%27t%20They%20Do%20-%20Toby%20Allsopp%20-%20CppCon%202017.pdf) by Toby Allsopp
