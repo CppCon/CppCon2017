@@ -33,7 +33,8 @@ def make_readme(readme):
         "Presentations",
         "Tutorials",
         "Demos",
-        "Lightning Talks and Lunch Sessions"
+        "Lightning Talks and Lunch Sessions",
+        "Posters"
     ]
     for category in CATEGORIES:
         add_index(readme, category)
