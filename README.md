@@ -47,6 +47,7 @@ and code from [CppCon 2017](http://cppcon.org).
  - [Values, Objects, and References, oh my!](Presentations/Values%2C%20Objects%2C%20and%20References%2C%20oh%20my%21/Values%2C%20Objects%2C%20and%20References%2C%20oh%20my%21%20-%20Nicole%20Mazzuca%20-%20CppCon%202017.pptx) by Nicole Mazzuca
  - [When a Microsecond Is an Eternity](Presentations/When%20a%20Microsecond%20Is%20an%20Eternity/When%20a%20Microsecond%20Is%20an%20Eternity%20-%20Carl%20Cook%20-%20CppCon%202017.pdf) by Carl Cook
  - [Which Machine am I Coding to](Presentations/Which%20Machine%20am%20I%20Coding%20to/Which%20Machine%20am%20I%20Coding%20to%20-%20Patrice%20Roy%20-%20CppCon%202017.pdf) by Patrice Roy
+ - [constexpr ALL the things](Presentations/constexpr%20ALL%20the%20things/constexpr%20ALL%20the%20things%20-%20Jason%20Turner%20and%20Ben%20Deane%20-%20CppCon%202017.pdf) by Jason Turner and Ben Deane
  - [dynamic_cast From Scratch](Presentations/dynamic_cast%20From%20Scratch/dynamic_cast%20From%20Scratch%20-%20Arthur%20O%27Dwyer%20-%20CppCon%202017.pdf) by Arthur O'Dwyer
  - [folly Function - A Non-copyable Alternative to std function](Presentations/folly%20Function%20-%20A%20Non-copyable%20Alternative%20to%20std%20function/folly%20Function%20-%20A%20Non-copyable%20Alternative%20to%20std%20function%20-%20Sven%20Over%20-%20CppCon%202017.pdf) by Sven Over \[[README](Presentations/folly%20Function%20-%20A%20Non-copyable%20Alternative%20to%20std%20function/README.md)\]
 
