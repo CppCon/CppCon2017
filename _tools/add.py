@@ -7,6 +7,7 @@ import sys
 import re
 import subprocess
 
+CPPCON_YEAR = 2017
 
 def shell_call(cmd):
     process = subprocess.Popen(cmd, shell=True)
@@ -19,28 +20,28 @@ def shell_call(cmd):
 
 
 def add_index(readme, category):
-    print("\n##", category, "\n", file=readme)
+    readme.write("\n## {}\n\n".format(category).encode())
     generate_index(readme, category)
 
 
 def make_readme(readme):
-    with open('_tools/readme_header.md', mode='r') as readme_header:
+    with open('_tools/readme_header.md', mode='rb') as readme_header:
         readme.writelines(readme_header.readlines())
-    print("# Index of Materials", file=readme)
+    readme.write("# Index of Materials\n".encode())
     CATEGORIES = [
         "Keynotes",
         "Presentations",
         "Tutorials",
         "Demos",
-        "Lightning Talks and Lunch Sessions",
-        "Posters"
+        "Lightning Talks and Lunch Sessions"
     ]
     for category in CATEGORIES:
         add_index(readme, category)
 
 
 def get_author(path):
-    author_regex = re.compile(".* - (.*) - CppCon 2017\\.[^.]*$")
+    author_regex = re.compile(".* - (.*) - CppCon " + str(CPPCON_YEAR) +
+                              "\\.[^.]*$")
 
     author = author_regex.search(path)
 
@@ -54,7 +55,8 @@ def generate_entry(readme, session_name, path):
     def md_path(path):
         return quote(normpath(path).replace('\\', '/'))
 
-    presentation_regex = re.compile("- CppCon 2017\\.[^.]*$")
+    presentation_regex = re.compile("- CppCon " + str(CPPCON_YEAR) +
+                                    "\\.[^.]*$")
     pdf_regex = re.compile("\\.pdf$", flags=re.I)
     readme_md_regex = re.compile("README\\.md$")
 
@@ -80,25 +82,24 @@ def generate_entry(readme, session_name, path):
         else:
             all_other_files.append(name)
 
-    print(" - [", session_name, "](", md_path(join(path, presentation_file)),
-          ") by ", author, file=readme, end='', sep='')
+    readme.write(" - [{}]({}) by {}".format(session_name, 
+                                     md_path(join(path, presentation_file)),
+                                     author).encode())
 
     if len(all_presentation_files) > 1:
         exts = [(splitext(f)[1].lower(), md_path(join(path, f))) for f in
                 all_presentation_files]
         for e in exts:
-            print(" \\[[", e[0], "](", e[1], ")\\]", file=readme, end='',
-                  sep='')
+            readme.write(" \\[[{}]({})\\]".format(e[0], e[1]).encode())
 
     if readme_md_file:
-        print(" \\[[README](", md_path(join(path, readme_md_file)), ")\\]",
-              file=readme, end='', sep='')
+        readme.write(" \\[[README]({})\\]".format(
+            md_path(join(path, readme_md_file))).encode())
 
     if all_other_files:
-        print(" \\[[more materials](", md_path(path), ")\\]", file=readme,
-              sep='', end='')
+        readme.write(" \\[[more materials]({})\\]".format(md_path(path)))
 
-    print('', file=readme)
+    readme.write('\n'.encode())
 
 
 def generate_index(readme, path):
@@ -187,7 +188,7 @@ if __name__ == '__main__':
     if len(sys.argv) == 2 and sys.argv[1]:
         title, author = add_presentation(sys.argv[1])
 
-    with open('README.md', mode='w') as readme:
+    with open('README.md', mode='wb') as readme:
         make_readme(readme)
 
     shell_call('git add README.md')

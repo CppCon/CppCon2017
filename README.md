@@ -7,11 +7,11 @@ and code from [CppCon 2017](http://cppcon.org).
 [For Speakers: Submitting Materials](Submitting.md)
 # Index of Materials
 
-## Keynotes 
+## Keynotes
 
  - [What Has My Compiler Done for Me Lately - Unbolting the Compiler's Lid](Keynotes/What%20Has%20My%20Compiler%20Done%20for%20Me%20Lately%20-%20Unbolting%20the%20Compiler%27s%20Lid/What%20Has%20My%20Compiler%20Done%20for%20Me%20Lately%20-%20Unbolting%20the%20Compiler%27s%20Lid%20-%20Matt%20Godbolt%20-%20CppCon%202017.pdf) by Matt Godbolt
 
-## Presentations 
+## Presentations
 
  - [A Soupcon of SFINAE](Presentations/A%20Soupcon%20of%20SFINAE/A%20Soupcon%20of%20SFINAE%20-%20Arthur%20O%27Dwyer%20-%20CppCon%202017.pdf) by Arthur O'Dwyer
  - [A Type, By Any Other Name](Presentations/A%20Type%2C%20By%20Any%20Other%20Name/A%20Type%2C%20By%20Any%20Other%20Name%20-%20Jon%20Cohen%20-%20CppCon%202017.pdf) by Jon Cohen
@@ -31,6 +31,7 @@ and code from [CppCon 2017](http://cppcon.org).
  - [Free Your Functions](Presentations/Free%20Your%20Functions/Free%20Your%20Functions%20-%20Klaus%20Iglberger%20-%20CppCon%202017.pdf) by Klaus Iglberger
  - [Function Default Arguments - Slingshot or Shotgun](Presentations/Function%20Default%20Arguments%20-%20Slingshot%20or%20Shotgun/Function%20Default%20Arguments%20-%20Slingshot%20or%20Shotgun%20-%20Michael%20Price%20-%20CppCon%202017.pdf) by Michael Price \[[README](Presentations/Function%20Default%20Arguments%20-%20Slingshot%20or%20Shotgun/README.md)\]
  - [Game Audio Programming in C++](Presentations/Game%20Audio%20Programming%20in%20C%2B%2B/Game%20Audio%20Programming%20in%20C%2B%2B%20-%20Guy%20Somberg%20-%20CppCon%202017.pdf) by Guy Somberg
+ - [Howling at the Moon - Lua for C++ Programmers](Presentations/Howling%20at%20the%20Moon%20-%20Lua%20for%20C%2B%2B%20Programmers/Howling%20at%20the%20Moon%20-%20Lua%20for%20C%2B%2B%20Programmers%20-%20Andreas%20Weis%20-%20CppCon%202017.pdf) by Andreas Weis
  - [Migrating a C++03 library to C++11 case study, Wt 4](Presentations/Migrating%20a%20C%2B%2B03%20library%20to%20C%2B%2B11%20case%20study%2C%20Wt%204/Migrating%20a%20C%2B%2B03%20library%20to%20C%2B%2B11%20case%20study%2C%20Wt%204%20-%20Roel%20Standaert%20-%20CppCon%202017.pdf) by Roel Standaert
  - [Mocking Frameworks Considered Harmful](Presentations/Mocking%20Frameworks%20Considered%20Harmful/Mocking%20Frameworks%20Considered%20Harmful%20-%20Peter%20Sommerlad%20-%20CppCon%202017.pdf) by Peter Sommerlad
  - [Postmodern C++](Presentations/Postmodern%20C%2B%2B/Postmodern%20C%2B%2B%20-%20Tony%20Van%20Eerd%20-%20CppCon%202017.pdf) by Tony Van Eerd
@@ -47,14 +48,14 @@ and code from [CppCon 2017](http://cppcon.org).
  - [dynamic_cast From Scratch](Presentations/dynamic_cast%20From%20Scratch/dynamic_cast%20From%20Scratch%20-%20Arthur%20O%27Dwyer%20-%20CppCon%202017.pdf) by Arthur O'Dwyer
  - [folly Function - A Non-copyable Alternative to std function](Presentations/folly%20Function%20-%20A%20Non-copyable%20Alternative%20to%20std%20function/folly%20Function%20-%20A%20Non-copyable%20Alternative%20to%20std%20function%20-%20Sven%20Over%20-%20CppCon%202017.pdf) by Sven Over \[[README](Presentations/folly%20Function%20-%20A%20Non-copyable%20Alternative%20to%20std%20function/README.md)\]
 
-## Tutorials 
+## Tutorials
 
  - [Boost Your Programs Health With Fibers](Tutorials/Boost%20Your%20Programs%20Health%20With%20Fibers/Boost%20Your%20Programs%20Health%20With%20Fibers%20-%20David%20Sackstein%20-%20CppCon%202017.pdf) by David Sackstein \[[README](Tutorials/Boost%20Your%20Programs%20Health%20With%20Fibers/README.md)\]
  - [Make Classes Great Again](Tutorials/Make%20Classes%20Great%20Again/Make%20Classes%20Great%20Again%20-%20Vinnie%20Falco%20-%20CppCon%202017.pdf) by Vinnie Falco
  - [Practical C++17](Tutorials/Practical%20C%2B%2B17/Practical%20C%2B%2B17%20-%20Jason%20Turner%20-%20CppCon%202017.pdf) by Jason Turner
  - [Using Modern CMake Patterns to Enforce a Good Modular Design](Tutorials/Using%20Modern%20CMake%20Patterns%20to%20Enforce%20a%20Good%20Modular%20Design/Using%20Modern%20CMake%20Patterns%20to%20Enforce%20a%20Good%20Modular%20Design%20-%20Mathieu%20Ropert%20-%20CppCon%202017.pdf) by Mathieu Ropert
 
-## Demos 
+## Demos
 
  - [A Modern Formatting Library for C++](Demos/A%20Modern%20Formatting%20Library%20for%20C%2B%2B/A%20Modern%20Formatting%20Library%20for%20C%2B%2B%20-%20Victor%20Zverovich%20-%20CppCon%202017.pdf) by Victor Zverovich
  - [Bringing Clang-tidy Magic to Visual Studio C++ Developers](Demos/Bringing%20Clang-tidy%20Magic%20to%20Visual%20Studio%20C%2B%2B%20Developers/Bringing%20Clang-tidy%20Magic%20to%20Visual%20Studio%20C%2B%2B%20Developers%20-%20Victor%20Ciura%20-%20CppCon%202017.pdf) by Victor Ciura \[[README](Demos/Bringing%20Clang-tidy%20Magic%20to%20Visual%20Studio%20C%2B%2B%20Developers/README.md)\]
@@ -68,7 +69,7 @@ and code from [CppCon 2017](http://cppcon.org).
  - [Using IncludeOS to Write Fast and Secure Web Applications](Demos/Using%20IncludeOS%20to%20Write%20Fast%20and%20Secure%20Web%20Applications/Using%20IncludeOS%20to%20Write%20Fast%20and%20Secure%20Web%20Applications%20-%20Lukas%20Bergdoll%20-%20CppCon%202017.pdf) by Lukas Bergdoll
  - [What's New and Upcoming in Visual Studio 2017 Updates](Demos/What%27s%20New%20and%20Upcoming%20in%20Visual%20Studio%202017%20Updates/What%27s%20New%20and%20Upcoming%20in%20Visual%20Studio%202017%20Updates%20-%20Steve%20Carroll%20and%20Daniel%20Moth%20-%20CppCon%202017.pptx) by Steve Carroll and Daniel Moth
 
-## Lightning Talks and Lunch Sessions 
+## Lightning Talks and Lunch Sessions
 
  - [10 Things Junior C++ Devs Don't Get](Lightning%20Talks%20and%20Lunch%20Sessions/10%20Things%20Junior%20C%2B%2B%20Devs%20Don%27t%20Get/10%20Things%20Junior%20C%2B%2B%20Devs%20Don%27t%20Get%20-%20Victor%20Ciura%20-%20CppCon%202017.pdf) by Victor Ciura
  - [Datetime Programming for Everyone. Everywhere](Lightning%20Talks%20and%20Lunch%20Sessions/Datetime%20Programming%20for%20Everyone.%20Everywhere/Datetime%20Programming%20for%20Everyone.%20Everywhere%20-%20Tai%20Meng%20-%20CppCon%202017.pdf) by Tai Meng
@@ -81,6 +82,3 @@ and code from [CppCon 2017](http://cppcon.org).
  - [Solving a Bug Via Lateral Thinking](Lightning%20Talks%20and%20Lunch%20Sessions/Solving%20a%20Bug%20Via%20Lateral%20Thinking/Solving%20a%20Bug%20Via%20Lateral%20Thinking%20-%20Giuseppe%20D%27Angelo%20-%20CppCon%202017.pdf) by Giuseppe D'Angelo
  - [Speeding up Preprocessor](Lightning%20Talks%20and%20Lunch%20Sessions/Speeding%20up%20Preprocessor/Speeding%20up%20Preprocessor%20-%20Ivan%20Sorokin%20-%20CppCon%202017.pdf) by Ivan Sorokin
  - [The Perils of Implementing Code from PDFs](Lightning%20Talks%20and%20Lunch%20Sessions/The%20Perils%20of%20Implementing%20Code%20from%20PDFs/The%20Perils%20of%20Implementing%20Code%20from%20PDFs%20-%20Ben%20Combee%20-%20CppCon%202017.pdf) by Ben Combee
-
-## Posters 
-
