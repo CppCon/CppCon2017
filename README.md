@@ -101,6 +101,7 @@ and code from [CppCon 2017](http://cppcon.org).
 
 ## Posters
 
+ - [A Hybrid Approach to Game Engine Architectures](Posters/A%20Hybrid%20Approach%20to%20Game%20Engine%20Architectures/A%20Hybrid%20Approach%20to%20Game%20Engine%20Architectures%20-%20Allan%20Deutsch%20and%20Aaron%20Kitchen%20-%20CppCon%202017.pdf) by Allan Deutsch and Aaron Kitchen
  - [Best Practices for Constructor Template Argument Deduction](Posters/Best%20Practices%20for%20Constructor%20Template%20Argument%20Deduction/Best%20Practices%20for%20Constructor%20Template%20Argument%20Deduction%20-%20Mike%20Spertus%20-%20CppCon%202017.pdf) by Mike Spertus
  - [Datetime Programming For Everyone. Everywhere](Posters/Datetime%20Programming%20For%20Everyone.%20Everywhere/Datetime%20Programming%20For%20Everyone.%20Everywhere%20-%20Tai%20Meng%20-%20CppCon%202017.pdf) by Tai Meng
  - [End-to-end Deadlock Debugging Tools at Facebook](Posters/End-to-end%20Deadlock%20Debugging%20Tools%20at%20Facebook/End-to-end%20Deadlock%20Debugging%20Tools%20at%20Facebook%20-%20Kenny%20Yu%20-%20CppCon%202017.pdf) by Kenny Yu
