@@ -14,6 +14,7 @@ and code from [CppCon 2017](http://cppcon.org).
 ## Presentations
 
  - [10 Core Guidelines You Need to Start Using Now](Presentations/10%20Core%20Guidelines%20You%20Need%20to%20Start%20Using%20Now/10%20Core%20Guidelines%20You%20Need%20to%20Start%20Using%20Now%20-%20Kate%20Gregory%20-%20CppCon%202017.pptx) by Kate Gregory
+ - [A Not So Complicated Lockfree Queue](Presentations/A%20Not%20So%20Complicated%20Lockfree%20Queue/A%20Not%20So%20Complicated%20Lockfree%20Queue%20-%20Tony%20Van%20Eerd%20-%20CppCon%202017.pdf) by Tony Van Eerd
  - [A Soupcon of SFINAE](Presentations/A%20Soupcon%20of%20SFINAE/A%20Soupcon%20of%20SFINAE%20-%20Arthur%20O%27Dwyer%20-%20CppCon%202017.pdf) by Arthur O'Dwyer
  - [A Type, By Any Other Name](Presentations/A%20Type%2C%20By%20Any%20Other%20Name/A%20Type%2C%20By%20Any%20Other%20Name%20-%20Jon%20Cohen%20-%20CppCon%202017.pdf) by Jon Cohen
  - [Almost Unlimited Modern C++ in Kernel-Mode Applications](Presentations/Almost%20Unlimited%20Modern%20C%2B%2B%20in%20Kernel-Mode%20Applications/Almost%20Unlimited%20Modern%20C%2B%2B%20in%20Kernel-Mode%20Applications%20-%20Billy%20Baker%20-%20CppCon%202017.pdf) by Billy Baker
