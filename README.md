@@ -18,6 +18,7 @@ and code from [CppCon 2017](http://cppcon.org).
  - [A Not So Complicated Lockfree Queue](Presentations/A%20Not%20So%20Complicated%20Lockfree%20Queue/A%20Not%20So%20Complicated%20Lockfree%20Queue%20-%20Tony%20Van%20Eerd%20-%20CppCon%202017.pdf) by Tony Van Eerd
  - [A Soupcon of SFINAE](Presentations/A%20Soupcon%20of%20SFINAE/A%20Soupcon%20of%20SFINAE%20-%20Arthur%20O%27Dwyer%20-%20CppCon%202017.pdf) by Arthur O'Dwyer
  - [A Type, By Any Other Name](Presentations/A%20Type%2C%20By%20Any%20Other%20Name/A%20Type%2C%20By%20Any%20Other%20Name%20-%20Jon%20Cohen%20-%20CppCon%202017.pdf) by Jon Cohen
+ - [Allocators, the Good Parts](Presentations/Allocators%2C%20the%20Good%20Parts/Allocators%2C%20the%20Good%20Parts%20-%20Pablo%20Halpern%20-%20CppCon%202017.pdf) by Pablo Halpern
  - [Almost Unlimited Modern C++ in Kernel-Mode Applications](Presentations/Almost%20Unlimited%20Modern%20C%2B%2B%20in%20Kernel-Mode%20Applications/Almost%20Unlimited%20Modern%20C%2B%2B%20in%20Kernel-Mode%20Applications%20-%20Billy%20Baker%20-%20CppCon%202017.pdf) by Billy Baker
  - [API & ABI Versioning](Presentations/API%20%26%20ABI%20Versioning/API%20%26%20ABI%20Versioning%20-%20Mathieu%20Ropert%20-%20CppCon%202017.pdf) by Mathieu Ropert
  - [Building C++ Modules](Presentations/Building%20C%2B%2B%20Modules/Building%20C%2B%2B%20Modules%20-%20Boris%20Kolpackov%20-%20CppCon%202017.pdf) by Boris Kolpackov \[[README](Presentations/Building%20C%2B%2B%20Modules/README.md)\]
