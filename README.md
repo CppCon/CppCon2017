@@ -9,6 +9,7 @@ and code from [CppCon 2017](http://cppcon.org).
 
 ## Keynotes
 
+ - [Meta - Thoughts on Generative C++](Keynotes/Meta%20-%20Thoughts%20on%20Generative%20C%2B%2B/Meta%20-%20Thoughts%20on%20Generative%20C%2B%2B%20-%20Herb%20Sutter%20-%20CppCon%202017.pdf) by Herb Sutter
  - [What Has My Compiler Done for Me Lately - Unbolting the Compiler's Lid](Keynotes/What%20Has%20My%20Compiler%20Done%20for%20Me%20Lately%20-%20Unbolting%20the%20Compiler%27s%20Lid/What%20Has%20My%20Compiler%20Done%20for%20Me%20Lately%20-%20Unbolting%20the%20Compiler%27s%20Lid%20-%20Matt%20Godbolt%20-%20CppCon%202017.pdf) by Matt Godbolt \[[README](Keynotes/What%20Has%20My%20Compiler%20Done%20for%20Me%20Lately%20-%20Unbolting%20the%20Compiler%27s%20Lid/README.md)\]
 
 ## Presentations
