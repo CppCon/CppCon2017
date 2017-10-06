@@ -48,6 +48,7 @@ and code from [CppCon 2017](http://cppcon.org).
  - [Mocking Frameworks Considered Harmful](Presentations/Mocking%20Frameworks%20Considered%20Harmful/Mocking%20Frameworks%20Considered%20Harmful%20-%20Peter%20Sommerlad%20-%20CppCon%202017.pdf) by Peter Sommerlad
  - [Postmodern C++](Presentations/Postmodern%20C%2B%2B/Postmodern%20C%2B%2B%20-%20Tony%20Van%20Eerd%20-%20CppCon%202017.pdf) by Tony Van Eerd
  - [Practical Techniques for Improving C++ Build Times](Presentations/Practical%20Techniques%20for%20Improving%20C%2B%2B%20Build%20Times/Practical%20Techniques%20for%20Improving%20C%2B%2B%20Build%20Times%20-%20Dmitry%20Panin%20-%20CppCon%202017.pdf) by Dmitry Panin
+ - [Programming with C++ Constraints](Presentations/Programming%20with%20C%2B%2B%20Constraints/Programming%20with%20C%2B%2B%20Constraints%20-%20Walter%20E%20Brown%20-%20CppCon%202017.pdf) by Walter E Brown
  - [Runtime Polymorphism - Back to Basics](Presentations/Runtime%20Polymorphism%20-%20Back%20to%20Basics/Runtime%20Polymorphism%20-%20Back%20to%20Basics%20-%20Louis%20Dionne%20-%20CppCon%202017.pdf) by Louis Dionne
  - [Seventeenification](Presentations/Seventeenification/Seventeenification%20-%20Roland%20Bock%20-%20CppCon%202017.pdf) by Roland Bock
  - [The Asynchronous C++ Parallel Programming Model](Presentations/The%20Asynchronous%20C%2B%2B%20Parallel%20Programming%20Model/The%20Asynchronous%20C%2B%2B%20Parallel%20Programming%20Model%20-%20Hartmut%20Kaiser%20-%20CppCon%202017.pdf) by Hartmut Kaiser
