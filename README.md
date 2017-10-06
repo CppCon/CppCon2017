@@ -105,6 +105,7 @@ and code from [CppCon 2017](http://cppcon.org).
  - [Solving a Bug Via Lateral Thinking](Lightning%20Talks%20and%20Lunch%20Sessions/Solving%20a%20Bug%20Via%20Lateral%20Thinking/Solving%20a%20Bug%20Via%20Lateral%20Thinking%20-%20Giuseppe%20D%27Angelo%20-%20CppCon%202017.pdf) by Giuseppe D'Angelo
  - [Speeding up Preprocessor](Lightning%20Talks%20and%20Lunch%20Sessions/Speeding%20up%20Preprocessor/Speeding%20up%20Preprocessor%20-%20Ivan%20Sorokin%20-%20CppCon%202017.pdf) by Ivan Sorokin
  - [std exchange idioms](Lightning%20Talks%20and%20Lunch%20Sessions/std%20exchange%20idioms/std%20exchange%20idioms%20-%20Ben%20Deane%20-%20CppCon%202017.pdf) by Ben Deane
+ - [The Amazing Disappearing, Reappearing Trigraphs](Lightning%20Talks%20and%20Lunch%20Sessions/The%20Amazing%20Disappearing%2C%20Reappearing%20Trigraphs/The%20Amazing%20Disappearing%2C%20Reappearing%20Trigraphs%20-%20Paul%20Hampson%20-%20CppCon%202017.pdf) by Paul Hampson
  - [The Perils of Implementing Code from PDFs](Lightning%20Talks%20and%20Lunch%20Sessions/The%20Perils%20of%20Implementing%20Code%20from%20PDFs/The%20Perils%20of%20Implementing%20Code%20from%20PDFs%20-%20Ben%20Combee%20-%20CppCon%202017.pdf) by Ben Combee
  - [Whitespace ≤ Comments « Code](Lightning%20Talks%20and%20Lunch%20Sessions/Whitespace%20%E2%89%A4%20Comments%20%C2%AB%20Code/Whitespace%20%E2%89%A4%20Comments%20%C2%AB%20Code%20-%20Walter%20E%20Brown%20-%20CppCon%202017.pdf) by Walter E Brown
 
