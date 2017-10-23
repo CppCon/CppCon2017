@@ -94,6 +94,7 @@ and code from [CppCon 2017](http://cppcon.org).
  - [Fuzz Or Lose](Demos/Fuzz%20Or%20Lose/Fuzz%20Or%20Lose%20-%20Kostya%20Serebryany%20-%20CppCon%202017.pdf) by Kostya Serebryany
  - [Mix Tests and Production Code With Doctest](Demos/Mix%20Tests%20and%20Production%20Code%20With%20Doctest/Mix%20Tests%20and%20Production%20Code%20With%20Doctest%20-%20Viktor%20Kirilov%20-%20CppCon%202017.md) by Viktor Kirilov
  - [MPark.Patterns - Pattern Matching in C++](Demos/MPark.Patterns%20-%20Pattern%20Matching%20in%20C%2B%2B/MPark.Patterns%20-%20Pattern%20Matching%20in%20C%2B%2B%20-%20Michael%20Park%20-%20CppCon%202017.pdf) by Michael Park
+ - [Naked Coroutines Live](Demos/Naked%20Coroutines%20Live/Naked%20Coroutines%20Live%20-%20Gor%20Nishanov%20-%20CppCon%202017.pdf) by Gor Nishanov
  - [New Standards to the Rescue](Demos/New%20Standards%20to%20the%20Rescue/New%20Standards%20to%20the%20Rescue%20-%20Anastasia%20Kazakova%20-%20CppCon%202017.pdf) by Anastasia Kazakova
  - [Performance Benchmarking with Celero](Demos/Performance%20Benchmarking%20with%20Celero/Performance%20Benchmarking%20with%20Celero%20-%20John%20Farrier%20-%20CppCon%202017.pdf) by John Farrier
  - [Tools From the C++ Eco-System](Demos/Tools%20From%20the%20C%2B%2B%20Eco-System/Tools%20From%20the%20C%2B%2B%20Eco-System%20-%20Anastasia%20Kazakova%20-%20CppCon%202017.pdf) by Anastasia Kazakova
