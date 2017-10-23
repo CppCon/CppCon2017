@@ -52,6 +52,7 @@ and code from [CppCon 2017](http://cppcon.org).
  - [LauncherOne Rocket With C++ Engine](Presentations/LauncherOne%20Rocket%20With%20C%2B%2B%20Engine/LauncherOne%20Rocket%20With%20C%2B%2B%20Engine%20-%20Diego%20Franco%20-%20CppCon%202017.pdf) by Diego Franco
  - [Migrating a C++03 library to C++11 case study, Wt 4](Presentations/Migrating%20a%20C%2B%2B03%20library%20to%20C%2B%2B11%20case%20study%2C%20Wt%204/Migrating%20a%20C%2B%2B03%20library%20to%20C%2B%2B11%20case%20study%2C%20Wt%204%20-%20Roel%20Standaert%20-%20CppCon%202017.pdf) by Roel Standaert
  - [Mocking Frameworks Considered Harmful](Presentations/Mocking%20Frameworks%20Considered%20Harmful/Mocking%20Frameworks%20Considered%20Harmful%20-%20Peter%20Sommerlad%20-%20CppCon%202017.pdf) by Peter Sommerlad
+ - [Optimizations and Debug Quality](Presentations/Optimizations%20and%20Debug%20Quality/Optimizations%20and%20Debug%20Quality%20-%20Samy%20Bahra%20-%20CppCon%202017.pdf) by Samy Bahra
  - [Postmodern C++](Presentations/Postmodern%20C%2B%2B/Postmodern%20C%2B%2B%20-%20Tony%20Van%20Eerd%20-%20CppCon%202017.pdf) by Tony Van Eerd
  - [Practical Techniques for Improving C++ Build Times](Presentations/Practical%20Techniques%20for%20Improving%20C%2B%2B%20Build%20Times/Practical%20Techniques%20for%20Improving%20C%2B%2B%20Build%20Times%20-%20Dmitry%20Panin%20-%20CppCon%202017.pdf) by Dmitry Panin
  - [Programming with C++ Constraints](Presentations/Programming%20with%20C%2B%2B%20Constraints/Programming%20with%20C%2B%2B%20Constraints%20-%20Walter%20E%20Brown%20-%20CppCon%202017.pdf) by Walter E Brown
