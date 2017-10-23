@@ -76,6 +76,7 @@ and code from [CppCon 2017](http://cppcon.org).
 
  - [Boost Your Programs Health With Fibers](Tutorials/Boost%20Your%20Programs%20Health%20With%20Fibers/Boost%20Your%20Programs%20Health%20With%20Fibers%20-%20David%20Sackstein%20-%20CppCon%202017.pdf) by David Sackstein \[[README](Tutorials/Boost%20Your%20Programs%20Health%20With%20Fibers/README.md)\]
  - [C++17 Parallel Algorithm](Tutorials/C%2B%2B17%20Parallel%20Algorithm/C%2B%2B17%20Parallel%20Algorithm%20-%20Dietmar%20Ku%CC%88hl%20-%20CppCon%202017.pdf) by Dietmar Kühl
+ - [Higher-order Functions in C++ - Techniques and Applications](Tutorials/Higher-order%20Functions%20in%20C%2B%2B%20-%20Techniques%20and%20Applications/Higher-order%20Functions%20in%20C%2B%2B%20-%20Techniques%20and%20Applications%20-%20Micha%C5%82%20Dominiak%20-%20CppCon%202017.pdf) by Michał Dominiak
  - [How to Write a Custom Allocator](Tutorials/How%20to%20Write%20a%20Custom%20Allocator/How%20to%20Write%20a%20Custom%20Allocator%20-%20Bob%20Steagall%20-%20CppCon%202017.pdf) by Bob Steagall
  - [Just Enough x86 Assembler to Be Dangerous](Tutorials/Just%20Enough%20x86%20Assembler%20to%20Be%20Dangerous/Just%20Enough%20x86%20Assembler%20to%20Be%20Dangerous%20-%20Charles%20Bailey%20-%20CppCon%202017.pdf) by Charles Bailey
  - [Make Classes Great Again](Tutorials/Make%20Classes%20Great%20Again/Make%20Classes%20Great%20Again%20-%20Vinnie%20Falco%20-%20CppCon%202017.pdf) by Vinnie Falco
