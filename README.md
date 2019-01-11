@@ -28,6 +28,7 @@ and code from [CppCon 2017](http://cppcon.org).
  - [C++ Atomics, From Basic to Advanced](Presentations/C%2B%2B%20Atomics%2C%20From%20Basic%20to%20Advanced/C%2B%2B%20Atomics%2C%20From%20Basic%20to%20Advanced%20-%20Fedor%20Pikus%20-%20CppCon%202017.pdf) by Fedor Pikus
  - [C++ in Academia](Presentations/C%2B%2B%20in%20Academia/C%2B%2B%20in%20Academia%20-%20Chuck%20Allison%20-%20CppCon%202017.pptx) by Chuck Allison
  - [C++ WinRT and the future of C++ on Windows](Presentations/C%2B%2B%20WinRT%20and%20the%20future%20of%20C%2B%2B%20on%20Windows/C%2B%2B%20WinRT%20and%20the%20future%20of%20C%2B%2B%20on%20Windows%20-%20Kenny%20Kerr%20-%20CppCon%202017.pdf) by Kenny Kerr
+ - [C++17 Features](https://brycelelbach.github.io/cpp17_features/) by Bryce Adelstein Lelbach 
  - [Class Template Argument Deduction - A New Abstraction](Presentations/Class%20Template%20Argument%20Deduction%20-%20A%20New%20Abstraction/Class%20Template%20Argument%20Deduction%20-%20A%20New%20Abstraction%20-%20Zhihao%20Yuan%20-%20CppCon%202017.pdf) by Zhihao Yuan
  - [CNL A Compositional Numeric Library](Presentations/CNL%20A%20Compositional%20Numeric%20Library/CNL%20A%20Compositional%20Numeric%20Library%20-%20John%20McFarlane%20-%20CppCon%202017.pdf) by John McFarlane \[[README](Presentations/CNL%20A%20Compositional%20Numeric%20Library/README.md)\]
  - [Concurrency, Parallelism and Coroutines](Presentations/Concurrency%2C%20Parallelism%20and%20Coroutines/Concurrency%2C%20Parallelism%20and%20Coroutines%20-%20Anthony%20Williams%20-%20CppCon%202017.pdf) by Anthony Williams
