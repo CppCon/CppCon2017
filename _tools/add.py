@@ -61,7 +61,7 @@ def generate_entry(readme, session_name, path):
 
             if match:
                 return match.group(2)
-        
+
         return ""
 
     def md_path(path):
@@ -129,7 +129,11 @@ def generate_index(readme, path):
     dir_contents.sort(key=lambda s: s.lower())
 
     for name in dir_contents:
-        generate_entry(readme, name, join(path, name))
+        try:
+            # empty directories or other such issues get skipped over
+            generate_entry(readme, name, join(path, name))
+        except:
+            pass
 
 
 def add_presentation(path):
@@ -166,7 +170,7 @@ def add_presentation(path):
                 title = match.group(1)
                 author = match.group(2)
     else:
-        title_author_regex = re.compile("(.*) - (.*) - CppCon " + 
+        title_author_regex = re.compile("(.*) - (.*) - CppCon " +
                                         str(CPPCON_YEAR) + r"\.[^.]*$")
 
         title_author_match = title_author_regex.search(filename)
